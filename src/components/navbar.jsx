@@ -98,7 +98,7 @@ function Navbar() {
     >
       <div className="container-fluid">
         <NavLink className="navbar-brand" to="#">
-          <img className="logo" src="onlibooks.png" alt="logo" />
+          <img className="logo" src="./bookmarklogo.png" alt="logo" />
         </NavLink>
         <button
           className="navbar-toggler"

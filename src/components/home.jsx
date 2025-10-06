@@ -39,7 +39,7 @@ function Home() {
   return (
     <div className="container home-top">
       <img
-        src="./onlibooks.jpeg"
+        src="./bookmarklogo.png"
         className="rounded-circle mx-auto d-block homeImage"
         alt=""
       />
